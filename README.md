@@ -19,6 +19,10 @@ Silakan melakukan instruksi di bawah ini:
 > Foto benda dari 4 sudut pandang
 
 ## Kanan Atas
+
 ## Kiri Atas
+
 ## Belakang Atas
+
 ## Depan Atas
+
