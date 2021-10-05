@@ -4,6 +4,13 @@ tugas-1-19-0071-DaffaAmanullahS created by GitHub Classroom
 #### Nama: Daffa Amanullah Setyawan
 #### NRP: 05111940000071
 
+### Lanjutan Tugas 1
+Membuat sebuah aplikasi Grafika berbasis WebGL dengan kata lain menggambar benda yang telah difoto dalam hal ini adalah Botol Minum menggunakan WebGL.
+<!-- ![Menggambar Botol Minum dengan WebGL](https://user-images.githubusercontent.com/90328953/136085171-141fc483-01af-4d73-8bc8-65b426900900.png) -->
+<img src="https://user-images.githubusercontent.com/90328953/136085171-141fc483-01af-4d73-8bc8-65b426900900.png" width="400">
+
+
+
 ### Tugas 1 :
 Silakan melakukan instruksi di bawah ini:
 1. Cari benda di sekitar Anda yang berawalan huruf B, G, atau L.
